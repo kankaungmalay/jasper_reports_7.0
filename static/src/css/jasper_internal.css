@@ -1,0 +1,12 @@
+.openerp td {
+	padding-left: 5px;
+	text-align: left;
+}
+
+.openerp td:first-child {
+	padding-left: 0px;
+}
+
+.openerp .oe_form td input[class="field_binary"] {
+	width: 440px;
+}
