@@ -2,7 +2,7 @@
 <openerp>
 <data>
     <!--{{{ report.jasper > form view -->
-    <record id="act_report_xml_view" model="ir.ui.view">
+    <record id="act_report_jasper_xml_view" model="ir.ui.view">
         <field name="name">ir.actions.report.xml.jasper</field>
         <field name="model">ir.actions.report.xml</field>
         <field name="type">form</field>
